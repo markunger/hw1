@@ -1,0 +1,15 @@
+setColor("blue");
+right();
+setColor("blue");
+right();
+setColor("blue");
+down();
+setColor("blue");
+down();
+setColor("blue");
+left();
+setColor("blue");
+left();
+setColor("blue");
+up();
+setColor("blue");
